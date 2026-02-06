@@ -31,7 +31,6 @@ WebSSET is a high-performance outsourcing contact center website designed for en
     ├── why-us.html     # Company value proposition
     └── faq.html        # Frequently Asked Questions
 ```
----
 
 ## 📸 Screenshot
 
