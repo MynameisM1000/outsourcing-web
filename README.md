@@ -3,7 +3,7 @@
 WebSSET is a high-performance outsourcing contact center website designed for enterprise clients. This project showcases a modern, responsive landing page and informational pages for a company providing inbound, outbound, and back-office solutions.
 
 👉 **Live Demo:**  
-🔗 [DEMO WEB](https://mynameism1000.github.io/outsourcing-web/)
+🔗 [DEMO WEB](https://mynameism1000.github.io/Outsourcing-Web/)
 
 ## 🚀 Features
 
