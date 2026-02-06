@@ -31,12 +31,20 @@ WebSSET is a high-performance outsourcing contact center website designed for en
     ├── why-us.html     # Company value proposition
     └── faq.html        # Frequently Asked Questions
 ```
+---
+
+## 📸 Screenshot
+
+### Main Window
+![Main Window](screenshots/main.png)
+
+---
 
 ## 🚀 How to Run
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/websset-outsourcing.git
+    git clone https://github.com/MynameisM1000/outsourcing-web.git
     ```
 2.  **Open `index.html`:**
     Simply double-click `index.html` to open it in your default web browser.
@@ -47,4 +55,4 @@ WebSSET is a high-performance outsourcing contact center website designed for en
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE.txt).
